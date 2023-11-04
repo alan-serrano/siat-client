@@ -21,7 +21,7 @@ npm i siat-client
 ```
 
 ```ts
-
+import { SiatClient } from "siat-client";
 ```
 
 <!-- You can remove this notice if you don't want it 🙂 no worries! -->
